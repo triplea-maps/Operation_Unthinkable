@@ -1,0 +1,4 @@
+map_name: Operation_Unthinkable
+games:
+- {game_name: Operation Unthinkable, file_name: Operation-Unthinkable.xml}
+version: 0
